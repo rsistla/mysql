@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #MySQL
 
 ####Table of Contents
@@ -521,3 +522,7 @@ This module is based on work by David Schmitt. The following contributors have c
 * Michael Arnold
 * Chris Weyl
 
+=======
+mysql
+=====
+>>>>>>> b60d3dac89c07b5e12c0834617b8542b74411e25
